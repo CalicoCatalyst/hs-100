@@ -1,6 +1,11 @@
 # hs-100
 Simple Java API for TP-Link HS100 Plugs. Although it should work for all HS plugs, hs-100 is the only type it is verified and confirmed to work with.
 
+### Status
+As of April.9.2018 Changes and Updates are being worked on. These may include refactoring of the entire class, addition of utilities such as network scanners, plug name identifiers, and other miscellaneous changes. I am currently recoding my application that uses this API and will be making changes to the API that I feel are warranted for regular ease of use and implementation. 
+
+ETA: May 1 2018
+
 ## Getting Started
 
 There is one class central to the HS-100 API. This is the HS100.java class. It represents a physical plug.
